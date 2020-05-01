@@ -1,7 +1,7 @@
 {
-    "dev": {
+    "devu": {
         "configLevel": "project",
         "useProfile": true,
-        "profileName": "isengard-amplify-cli"
+        "profileName": "default"
     }
 }
