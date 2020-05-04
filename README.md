@@ -1,12 +1,12 @@
-# Quick Notes
+# Just A Pasty (forked from an AWS Quick Notes project)
 
-#### Deploy a full stack web app to help you organize your notes when you're on the go.
+#### Deploy a full stack web app to help you organize your pasties when you're on the go.
 
 🛠 Built with React, GraphQL, AWS Amplify, AWS AppSync, Amazon Transcribe, & Amazon Polly
 
 ### Features
 
-- 🎙 Record notes
+- 🎙 Record cooking and recipe notes
 - 🔈 Play notes back
 - 📖 Read notes
 - 👮‍ Authenticated
@@ -14,7 +14,7 @@
 - 🚀 GraphQL
 - 💻 Deploy back end in minutes
 
-![](./example.jpg)
+![](./justapasty_man.jpg)
 
 ## Deploy the App
 
@@ -29,7 +29,7 @@ To automatically deploy the app, click the big orange button 👇
 1. Clone the repo & install the dependencies
 
 ```sh
-~ git clone https://github.com/kkemple/quick-notes.git
+~ git clone https://github.com/chefhands/quick-notes.git
 ~ cd quick-notes
 ~ npm install
 ```

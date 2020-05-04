@@ -21,7 +21,7 @@
                 "s3TemplateURL": "https://s3.amazonaws.com/amplify-quick-notes-devu-192600-deployment/amplify-cfn-templates/auth/quicknotes9506fafe-cloudformation-template.yml",
                 "logicalId": "authquicknotes9506fafe"
             },
-            "lastPushTimeStamp": "2020-05-01T10:38:17.015Z",
+            "lastPushTimeStamp": "2020-05-01T11:11:05.012Z",
             "output": {
                 "AppClientSecret": "ar661nk1jcrr12q2578apo9cp5ola51aaru2h599n3fmmo01ckj",
                 "UserPoolId": "eu-west-1_7oN59nnfK",
@@ -47,7 +47,7 @@
                 "s3TemplateURL": "https://s3.amazonaws.com/amplify-quick-notes-devu-192600-deployment/amplify-cfn-templates/api/cloudformation-template.json",
                 "logicalId": "apiquicknotes"
             },
-            "lastPushTimeStamp": "2020-05-01T10:38:17.017Z",
+            "lastPushTimeStamp": "2020-05-01T11:11:05.013Z",
             "lastPushDirHash": "7WD1Vue80iprwLuwtQ1jX/N6dYA="
         }
     },
@@ -60,7 +60,7 @@
                 "s3TemplateURL": "https://s3.amazonaws.com/amplify-quick-notes-devu-192600-deployment/amplify-cfn-templates/predictions/transcriptione65259cc-template.json",
                 "logicalId": "predictionstranscriptione65259cc"
             },
-            "lastPushTimeStamp": "2020-05-01T10:38:17.019Z",
+            "lastPushTimeStamp": "2020-05-01T11:11:05.016Z",
             "output": {
                 "language": "en-US",
                 "region": "eu-west-1"
@@ -75,7 +75,7 @@
                 "s3TemplateURL": "https://s3.amazonaws.com/amplify-quick-notes-devu-192600-deployment/amplify-cfn-templates/predictions/speechGeneratorc72b6c38-template.json",
                 "logicalId": "predictionsspeechGeneratorc72b6c38"
             },
-            "lastPushTimeStamp": "2020-05-01T10:38:17.021Z",
+            "lastPushTimeStamp": "2020-05-01T11:11:05.018Z",
             "output": {
                 "voice": "Kendra",
                 "language": "en-US",

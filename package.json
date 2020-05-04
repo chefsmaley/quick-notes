@@ -12,6 +12,8 @@
     "@rebass/forms": "^4.0.5",
     "aws-amplify": "^1.1.36",
     "aws-amplify-react": "^2.3.12",
+    "eslint": "^6.8.0",
+    "eslint-config-react-app": "^5.2.1",
     "formik": "^1.5.8",
     "microphone-stream": "^5.0.1",
     "normalize.css": "^8.0.1",
@@ -19,7 +21,10 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-icons": "^3.7.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "tsutils": "^3.17.1",
+    "typescript-eslint": "0.0.1-alpha.0",
+    "yarn": "^1.22.4"
   },
   "scripts": {
     "start": "react-scripts start",
