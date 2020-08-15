@@ -62,7 +62,7 @@ const Title = styled("h2")`
 
 export default props => (
   <Dialog onDismiss={props.onDismiss}>
-    <Title>{props.title ? "Edit Note" : "Create Note"}</Title>
+    <Title>{props.title ? "Edit Order" : "Create Order"}</Title>
     <Formik
       initialValues={{
         title: props.title || "",
@@ -82,7 +82,7 @@ export default props => (
         <form onSubmit={handleSubmit}>
           <FormInputs>
             <InputContainer>
-              <StyledLabel htmlFor="title">Title</StyledLabel>
+              <StyledLabel htmlFor="title">Name</StyledLabel>
               <StyledInput
                 type="text"
                 name="title"
@@ -92,7 +92,7 @@ export default props => (
             </InputContainer>
 
             <InputContainer>
-              <StyledLabel htmlFor="text">Note</StyledLabel>
+              <StyledLabel htmlFor="text">Order</StyledLabel>
               <StyledTextarea
                 name="text"
                 value={values.text}

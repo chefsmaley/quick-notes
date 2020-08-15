@@ -102,8 +102,8 @@ export default () => {
       </Header>
       <StyledTabs index={tabIndex} onChange={index => setTabIndex(index)}>
         <StyledTabList>
-          <StyledTab>Notes</StyledTab>
-          <StyledTab>Record</StyledTab>
+          <StyledTab>Orders</StyledTab>
+          <StyledTab>New Order</StyledTab>
         </StyledTabList>
         <StyledTabPanels>
           <StyledTabPanel>
